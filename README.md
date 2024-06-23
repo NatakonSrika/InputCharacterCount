@@ -1,0 +1,2 @@
+# InputCharacterCount
+ JavaScript Project
